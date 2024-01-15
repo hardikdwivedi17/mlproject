@@ -1,4 +1,4 @@
-pandas
+pandas   
 numpy
 seaborn
--e . #it will trigger automatically setup.py
+-e .                                   #it will trigger automatically setup.py
